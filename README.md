@@ -1,4 +1,4 @@
-# Elastisearch-Maintenance
+# Elasticsearch-Maintenance
 This script Help you to prevent space disk over load deleting older logs.
 -Instal Elasticsearch curator
 -Créate a task on crontab that it's execute daily and allow to delete older logs
